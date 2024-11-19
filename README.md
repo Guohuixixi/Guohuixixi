@@ -2,7 +2,7 @@
 
 <div align="center">
     <p>Vistor Count</p>
-    <img src="https://my-counter-app-ybwe.vercel.app/Guohuixixi/count.svg" />
+    <img src="my-counter-app-ybwe.vercel.app/Guohuixixi/count.svg" />
 </div>
 <h2>About ME <img height="40" width="40" src="./assets/gopher.gif" alt="Gopher"/></h2>
 Hi Guys, my name is Gu xi(古汐), BackEnd developer.
