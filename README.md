@@ -12,6 +12,15 @@ Hi Guys, my name is Gu xi(古汐), BackEnd developer.
 </ul>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 20 October 2024 - To: 19 November 2024
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
