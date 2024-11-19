@@ -15,6 +15,7 @@
 ![markdown](https://img.shields.io/badge/markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ## 🛠️ Backend:
 ![gin](https://img.shields.io/badge/gin-008ECF?style=flat-square&logo=gin&logoColor=white)
+![gorm](https://img.shields.io/badge/gorm-008ECF?style=flat-square&logo=gorm&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![redis](https://img.shields.io/badge/redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 ![kafka](https://img.shields.io/badge/kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
