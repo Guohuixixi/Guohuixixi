@@ -9,9 +9,10 @@ Hi Guys, my name is Gu xi(古汐), BackEnd developer.
 
 
 ![](https://raw.githubusercontent.com/Guohuixixi/Guohuixixi/main/dist/github-contribution-grid-snake.svg)
+
 <div align="center">
 <span>&emsp;&emsp;</span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Guohuixixi"&cache_bust=202411191315 /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guohuixixi&cache_bust=202411191315&layout=compact&langs_count=8" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Guohuixixi&show_icons=true&theme=transparent" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guohuixixi&cache_bust=202411191315&layout=compact&langs_count=8" />
 <span>&emsp;&emsp;</span>
 </div>
 
