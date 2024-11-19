@@ -6,11 +6,6 @@ Hi Guys, my name is Gu xi(古汐), BackEnd developer.
     <li>🐈️ Love some cute animal.</li>
 </ul>
 
-<!-- wakatime 统计 -->
-<table align="center">
-<tr>
-<td valign="top">
-
 
 ![](https://raw.githubusercontent.com/Guohuixixi/Guohuixixi/main/dist/github-contribution-grid-snake.svg)
 <div align="center">
