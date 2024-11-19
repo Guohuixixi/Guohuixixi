@@ -1,5 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&Size=30&pause=1000&width=435&lines=Endless+improvement)](https://git.io/typing-svg)
-
+<h2>About ME <img height="40" width="40" src="./assets/gopher.gif" alt="Gopher"/></h2>
+Hi Guys, my name is Gu xi(古汐), BackEnd developer.
+<ul>
+    <li>🏫 Graduate from JXUST (Information security)</li>
+    <li>🐈️ Love some cute animal.</li>
+</ul>
 ![](https://raw.githubusercontent.com/Guohuixixi/Guohuixixi/main/dist/github-contribution-grid-snake.svg)
 <div align="center">
 <span>&emsp;&emsp;</span>
