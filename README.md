@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&Size=30&pause=1000&width=435&lines=Endless+improvement)](https://git.io/typing-svg)
-<img src="https://komarev.com/ghpvc/?username=Guohuixixi&abbreviated=true&style=for-the-badge&color=brightgreen" alt="Profile Views" style="float: left; margin-right: 10px;" />
+![Profile Views](https://komarev.com/ghpvc/?username=Guohuixixi&abbreviated=true&style=for-the-badge&color=brightgreen)
+
 
 <h2>About ME <img height="40" width="40" src="./assets/gopher.gif" alt="Gopher"/></h2>
 Hi Guys, my name is Gu xi(古汐), BackEnd developer.
