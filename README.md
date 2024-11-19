@@ -6,6 +6,20 @@ Hi Guys, my name is Gu xi(古汐), BackEnd developer.
     <li>🐈️ Love some cute animal.</li>
 </ul>
 
+</table>
+
+<!-- wakatime 统计 -->
+<table align="center">
+<tr>
+<td valign="top">
+
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
+
+</tr>
+</table>
 
 ![](https://raw.githubusercontent.com/Guohuixixi/Guohuixixi/main/dist/github-contribution-grid-snake.svg)
 <div align="center">
@@ -13,6 +27,8 @@ Hi Guys, my name is Gu xi(古汐), BackEnd developer.
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Guohuixixi"&cache_bust=202411191315 /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guohuixixi&cache_bust=202411191315&layout=compact&langs_count=8" />
 <span>&emsp;&emsp;</span>
 </div>
+
+
 
 ## 🛠️Languages:
 ![go](https://img.shields.io/badge/go-00ADD8?style=flat-square&logo=go&logoColor=white)
