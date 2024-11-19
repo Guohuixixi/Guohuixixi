@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![](https://raw.githubusercontent.com/Guohuixixi/Guohuixixi/main/dist/github-contribution-grid-snake.svg)
 <!--
 **Guohuixixi/Guohuixixi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
