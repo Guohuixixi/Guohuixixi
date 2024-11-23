@@ -11,21 +11,6 @@ Hi Guys, my name is Gu xi(古汐), BackEnd developer.
     <li>🐈️ Love some cute animal.</li>
 </ul>
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 22 October 2024 - To: 21 November 2024
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-
-![](https://raw.githubusercontent.com/Guohuixixi/Guohuixixi/main/dist/github-contribution-grid-snake.svg)
-
 <div align="center">
 <span>&emsp;&emsp;</span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Guohuixixi&show_icons=true&theme=transparent" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guohuixixi&cache_bust=202411191315&layout=compact&langs_count=8" />
