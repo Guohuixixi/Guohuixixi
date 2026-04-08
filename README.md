@@ -1,9 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&Size=40&pause=1000&width=435&lines=Endless+improvement+.+.+.)](https://git.io/typing-svg)
 
-<div align="center">
-    <p>Vistor Count</p>
-    <img src="https://profile-counter.glitch.me/Guohuixixi/count.svg" />
-</div>
+
 <h2>About ME <img height="40" width="40" src="./assets/gopher.gif" alt="Gopher"/></h2>
 Hi Guys, my name is Gu xi(古汐), BackEnd developer.
 <ul>
@@ -11,42 +8,94 @@ Hi Guys, my name is Gu xi(古汐), BackEnd developer.
     <li>🐈️ Love some cute animal.</li>
 </ul>
 
+</table>
+
+<!-- wakatime 统计 -->
+<table align="center">
+<tr>
+<td valign="top">
+
+<!--START_SECTION:waka-->
+
+```txt
+Other        14 hrs 55 mins        █████████████░░░░░░░░░░░░   51.36 %
+Markdown     3 hrs 24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
+YAML         2 hrs 53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
+Go           1 hr 20 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+Python       1 hr 14 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+```
+
+<!--END_SECTION:waka-->
+
+</tr>
+</table>
+
+
+### 🛠️ Tech Stack
+
+#### 💻 Languages
 <div align="center">
-<span>&emsp;&emsp;</span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Guohuixixi&show_icons=true&theme=transparent" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guohuixixi&cache_bust=202411191315&layout=compact&langs_count=8" />
-<span>&emsp;&emsp;</span>
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go"/></code>
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/></code>
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/></code>
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/></code>
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C"/></code>
 </div>
 
+#### 🎨 Frontend
+<div align="center">
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/></code>
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js"/></code>
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js"/></code>
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/></code>
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack"/></code>
+</div>
 
+#### ⚙️ Backend
+<div align="center">
+<code><img height="50" width="50" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.svg" alt="Gin"/></code>
+<code><img height="50" width="50" src="https://raw.githubusercontent.com/zeromicro/zero-doc/main/doc/images/go-zero.png" alt="Gozero"/></code>
+<code><img height="50" width="50" src="https://gorm.io/gorm.svg" alt="Gorm"/></code>
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring"/></code>
+</div>
 
-## 🛠️Languages:
-![go](https://img.shields.io/badge/go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![cplusplus](https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-![markdown](https://img.shields.io/badge/markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-## 🛠️ Backend:
-![gin](https://img.shields.io/badge/gin-008ECF?style=flat-square&logo=gin&logoColor=white)
-![gorm](https://img.shields.io/badge/gorm-008ECF?style=flat-square&logo=gorm&logoColor=white)
-![mysql](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![redis](https://img.shields.io/badge/redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-![kafka](https://img.shields.io/badge/kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-## 🛠️ Devops:
-![docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-## 🛠️ Base Tools:
-![git](https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white)
-![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=flat-square&logo=Gitee&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![Bing](https://img.shields.io/badge/Bing-258FFA?style=flat-square&logo=MicrosoftBing&logoColor=white)
-![goland](https://img.shields.io/badge/goland-000000?style=flat-square&logo=goland&logoColor=white)
-![apifox](https://img.shields.io/badge/apifox-F44A53?style=flat-square&logo=apifox&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=Vim&logoColor=white)
-![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat-square&logo=GoogleChrome&logoColor=white)
-![datagrip](https://img.shields.io/badge/datagrip-000000?style=flat-square&logo=datagrip&logoColor=white)
-## 🛠️ Environment:
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
-![centos](https://img.shields.io/badge/centos-262577?style=flat-square&logo=centos&logoColor=white)
-![debian](https://img.shields.io/badge/debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-![ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
+#### 🗄️ Database
+<div align="center">
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/></code>
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/></code>
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/></code>
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clickhouse/clickhouse-original.svg" alt="ClickHouse"/></code>
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="ES"/></code>
+</div>
+
+#### 🔄 Message Queue & Cache
+<div align="center">
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis"/></code>
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka"/></code>
+</div>
+
+#### 🔌 Microservices & API
+<div align="center">
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" alt="gRPC"/></code>
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="Swagger"/></code>
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman"/></code>
+</div>
+
+#### ☁️ DevOps & Cloud
+<div align="center">
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/></code>
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="K8s"/></code>
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="Prometheus"/></code>
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="Grafana"/></code>
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx"/></code>
+</div>
+
+#### 🛠️ Tools
+<div align="center">
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/></code>
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/></code>
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab"/></code>
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/></code>
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode"/></code>
+<code><img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim"/></code>
+</div>
