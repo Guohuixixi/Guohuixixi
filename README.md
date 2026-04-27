@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&Size=40&pause=1000&width=435&lines=Endless+improvement+.+.+.)](https://git.io/typing-svg)
-
+<p align="center">
+  <img src="https://my-counter-app-ybwe.vercel.app/api/count" alt="Profile Views">
+</p>
 
 <h2>About ME <img height="40" width="40" src="./assets/gopher.gif" alt="Gopher"/></h2>
 Hi Guys, my name is Gu xi(古汐), BackEnd developer.
@@ -18,7 +20,6 @@ Hi Guys, my name is Gu xi(古汐), BackEnd developer.
     <img height="180em" src="https://github-readme-stats-dun-seven-97.vercel.app/api/top-langs/?username=Guohuixixi&layout=compact&langs_count=8&hide_border=true&theme=ambient_gradient" alt="Guohuixixi's top languages" />
   </a>
 </p>
-
 
 
 ### 🛠️ Tech Stack
