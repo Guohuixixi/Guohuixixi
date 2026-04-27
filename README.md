@@ -10,25 +10,16 @@ Hi Guys, my name is Gu xi(古汐), BackEnd developer.
 
 </table>
 
-<!-- wakatime 统计 -->
-<table align="center">
-<tr>
-<td valign="top">
+<p align="center">
+  <a href="https://github.com/Guohuixixi">
+    <img height="180em" src="https://github-readme-stats-dun-seven-97.vercel.app/api?username=Guohuixixi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=ambient_gradient&hide=contribs" alt="Guohuixixi's GitHub stats" />
+  </a>
+  <a href="https://github.com/Guohuixixi">
+    <img height="180em" src="https://github-readme-stats-dun-seven-97.vercel.app/api/top-langs/?username=Guohuixixi&layout=compact&langs_count=8&hide_border=true&theme=ambient_gradient" alt="Guohuixixi's top languages" />
+  </a>
+</p>
 
-<!--START_SECTION:waka-->
 
-```txt
-Other        14 hrs 55 mins        █████████████░░░░░░░░░░░░   51.36 %
-Markdown     3 hrs 24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 %
-YAML         2 hrs 53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
-Go           1 hr 20 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
-Python       1 hr 14 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
-```
-
-<!--END_SECTION:waka-->
-
-</tr>
-</table>
 
 ### 🛠️ Tech Stack
 
